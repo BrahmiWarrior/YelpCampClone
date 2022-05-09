@@ -1,0 +1,247 @@
+<2021-11-01 08:51:46.047>: [Info]: BackupNameAttachment=" Build(1467185) 01 Nov 21 (14 21 46)"  -- used by backup system
+
+<2021-11-01 08:51:46.047>: [Info]: Log Started at local time Mon Nov  1 14:21:46 2021
+<2021-11-01 08:51:46.048>: [Info]: Built on Wed Oct 27 02:03:51 2021
+
+<2021-11-01 08:51:46.048>: [Info]: Running 64 bit Windows version
+<2021-11-01 08:51:46.048>: [Info]: Executable: NewWorld.exe [AZ_RETAIL_CONFIG]
+<2021-11-01 08:51:46.048>: [Info]: FileVersion: 1.9.275.1467185
+<2021-11-01 08:51:46.048>: [Info]: ProductVersion: 1.9.275.1467185
+<2021-11-01 08:51:46.048>: [Info]: Using Microsoft (tm) C++ Standard Library implementation
+
+<2021-11-01 08:51:46.048>: [Info] (AZCore): [System] Loading system configuration from system_windows_pc.cfg...
+<2021-11-01 08:51:46.048>: [Info] (AZCore): [System] GameDir: Assets
+
+<2021-11-01 08:51:47.077>: [Info]: 
+<2021-11-01 08:51:47.077>: [Info]: Total number of logical processors: 12
+<2021-11-01 08:51:47.077>: [Info]: Number of available logical processors: 12
+<2021-11-01 08:51:47.077>: [Info]: Total number of system cores: 6
+<2021-11-01 08:51:47.077>: [Info]: Number of cores available to process: 6
+<2021-11-01 08:51:47.077>: [Info]:  
+<2021-11-01 08:51:47.077>: [Info]: Processor 0:
+<2021-11-01 08:51:47.077>: [Info]:   CPU: Intel Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz
+<2021-11-01 08:51:47.077>: [Info]:   Family: 6, Model: 14, Stepping: 10
+<2021-11-01 08:51:47.077>: [Info]:   FPU: On-Chip
+<2021-11-01 08:51:47.077>: [Info]:   3DNow!: not present
+<2021-11-01 08:51:47.077>: [Info]:   MMX: not present
+<2021-11-01 08:51:47.077>: [Info]:   SSE: present
+<2021-11-01 08:51:47.077>: [Info]:   SSE2: present
+<2021-11-01 08:51:47.077>: [Info]:   SSE3: present
+<2021-11-01 08:51:47.077>: [Info]:   Serial number not present or disabled
+<2021-11-01 08:51:47.077>: [Info]:  
+<2021-11-01 08:51:47.077>: [Info]: Processor 1:
+<2021-11-01 08:51:47.077>: [Info]:   CPU: Intel Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz
+<2021-11-01 08:51:47.077>: [Info]:   Family: 6, Model: 14, Stepping: 10
+<2021-11-01 08:51:47.077>: [Info]:   FPU: On-Chip
+<2021-11-01 08:51:47.077>: [Info]:   3DNow!: not present
+<2021-11-01 08:51:47.077>: [Info]:   MMX: not present
+<2021-11-01 08:51:47.077>: [Info]:   SSE: present
+<2021-11-01 08:51:47.077>: [Info]:   SSE2: present
+<2021-11-01 08:51:47.077>: [Info]:   SSE3: present
+<2021-11-01 08:51:47.077>: [Info]:   Serial number not present or disabled
+<2021-11-01 08:51:47.077>: [Info]:  
+<2021-11-01 08:51:47.077>: [Info]: Processor 2:
+<2021-11-01 08:51:47.077>: [Info]:   CPU: Intel Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz
+<2021-11-01 08:51:47.077>: [Info]:   Family: 6, Model: 14, Stepping: 10
+<2021-11-01 08:51:47.077>: [Info]:   FPU: On-Chip
+<2021-11-01 08:51:47.077>: [Info]:   3DNow!: not present
+<2021-11-01 08:51:47.077>: [Info]:   MMX: not present
+<2021-11-01 08:51:47.077>: [Info]:   SSE: present
+<2021-11-01 08:51:47.077>: [Info]:   SSE2: present
+<2021-11-01 08:51:47.077>: [Info]:   SSE3: present
+<2021-11-01 08:51:47.077>: [Info]:   Serial number not present or disabled
+<2021-11-01 08:51:47.077>: [Info]:  
+<2021-11-01 08:51:47.077>: [Info]: Processor 3:
+<2021-11-01 08:51:47.077>: [Info]:   CPU: Intel Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz
+<2021-11-01 08:51:47.077>: [Info]:   Family: 6, Model: 14, Stepping: 10
+<2021-11-01 08:51:47.077>: [Info]:   FPU: On-Chip
+<2021-11-01 08:51:47.077>: [Info]:   3DNow!: not present
+<2021-11-01 08:51:47.077>: [Info]:   MMX: not present
+<2021-11-01 08:51:47.077>: [Info]:   SSE: present
+<2021-11-01 08:51:47.077>: [Info]:   SSE2: present
+<2021-11-01 08:51:47.077>: [Info]:   SSE3: present
+<2021-11-01 08:51:47.077>: [Info]:   Serial number not present or disabled
+<2021-11-01 08:51:47.077>: [Info]:  
+<2021-11-01 08:51:47.077>: [Info]: Processor 4:
+<2021-11-01 08:51:47.077>: [Info]:   CPU: Intel Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz
+<2021-11-01 08:51:47.077>: [Info]:   Family: 6, Model: 14, Stepping: 10
+<2021-11-01 08:51:47.077>: [Info]:   FPU: On-Chip
+<2021-11-01 08:51:47.077>: [Info]:   3DNow!: not present
+<2021-11-01 08:51:47.077>: [Info]:   MMX: not present
+<2021-11-01 08:51:47.077>: [Info]:   SSE: present
+<2021-11-01 08:51:47.077>: [Info]:   SSE2: present
+<2021-11-01 08:51:47.077>: [Info]:   SSE3: present
+<2021-11-01 08:51:47.077>: [Info]:   Serial number not present or disabled
+<2021-11-01 08:51:47.077>: [Info]:  
+<2021-11-01 08:51:47.077>: [Info]: Processor 5:
+<2021-11-01 08:51:47.077>: [Info]:   CPU: Intel Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz
+<2021-11-01 08:51:47.077>: [Info]:   Family: 6, Model: 14, Stepping: 10
+<2021-11-01 08:51:47.077>: [Info]:   FPU: On-Chip
+<2021-11-01 08:51:47.077>: [Info]:   3DNow!: not present
+<2021-11-01 08:51:47.077>: [Info]:   MMX: not present
+<2021-11-01 08:51:47.077>: [Info]:   SSE: present
+<2021-11-01 08:51:47.077>: [Info]:   SSE2: present
+<2021-11-01 08:51:47.077>: [Info]:   SSE3: present
+<2021-11-01 08:51:47.077>: [Info]:   Serial number not present or disabled
+<2021-11-01 08:51:47.077>: [Info]:  
+<2021-11-01 08:51:47.077>: [Info]: Windows 10 64 bit (build 10.0.19042)
+<2021-11-01 08:51:47.077>: [Info]: System language: English
+<2021-11-01 08:51:47.077>: [Info]: Windows Directory: "C:\WINDOWS"
+<2021-11-01 08:51:47.077>: [Info]: Local time is 14:21:47 11/01/21, system running for 888 minutes
+<2021-11-01 08:51:47.077>: [Info]: 16314MB physical memory installed, 9695MB available, 134217727MB virtual memory installed, 40 percent of memory in use
+<2021-11-01 08:51:47.078>: [Info]: PageFile usage: 163MB, Working Set: 205MB, Peak PageFile usage: 331MB,
+<2021-11-01 08:51:47.078>: [Info]: Current display mode is 78043832, (Unknown graphics card)
+<2021-11-01 08:51:47.078>: [Info]: IBM enhanced (101/102-key) keyboard and 5+ button mouse installed
+<2021-11-01 08:51:47.078>: [Info]: --------------------------------------------------------------------------------
+<2021-11-01 08:51:47.079>: [Info]: Running machine spec auto detect (64 bit)...
+<2021-11-01 08:51:47.079>: [Info]: - Windows 10 64 bit (build 10.0.19042)
+<2021-11-01 08:51:47.079>: [Info]: - System memory
+<2021-11-01 08:51:47.079>: [Info]: --- 16313 MB
+<2021-11-01 08:51:47.079>: [Info]: - Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz
+<2021-11-01 08:51:47.079>: [Info]: --- Number of available cores: 6 (out of 6)
+<2021-11-01 08:51:47.079>: [Info]: --- Number of logical processors: 12
+<2021-11-01 08:51:47.080>: [Info]: Logging video adapters:
+<2021-11-01 08:51:48.771>: [Info]: - NVIDIA GeForce RTX 2080 (vendor = 0x10de, device = 0x1e87)
+<2021-11-01 08:51:48.771>: [Info]:   - Adapter index: 0
+<2021-11-01 08:51:48.771>: [Info]:   - Dedicated video memory: 8010 MB
+<2021-11-01 08:51:48.771>: [Info]:   - Feature level: DX11 (SM 5.0)
+<2021-11-01 08:51:48.771>: [Info]:   - Displays connected: yes
+<2021-11-01 08:51:48.771>: [Info]:   - Suitable rendering device: yes
+<2021-11-01 08:51:48.946>: [Info]: - Microsoft Basic Render Driver (vendor = 0x1414, device = 0x008c)
+<2021-11-01 08:51:48.946>: [Info]:   - Adapter index: 1
+<2021-11-01 08:51:48.946>: [Info]:   - Dedicated video memory: 0 MB
+<2021-11-01 08:51:48.946>: [Info]:   - Feature level: DX11 (SM 5.0)
+<2021-11-01 08:51:48.946>: [Info]:   - Displays connected: no
+<2021-11-01 08:51:48.946>: [Info]:   - Suitable rendering device: no
+<2021-11-01 08:51:48.947>: [Info]: - NVIDIA GeForce RTX 2080 (vendor = 0x10de, device = 0x1e87)
+<2021-11-01 08:51:48.947>: [Info]: --- Dedicated video memory: 8010 MB
+<2021-11-01 08:51:48.947>: [Info]: --- Feature level: DX11 (SM 5.0)
+<2021-11-01 08:51:48.947>: [Info]: - Final rating: Machine class 3
+<2021-11-01 08:51:48.948>: [Info] (AZCore): [System] Stream Engine Initialization
+<2021-11-01 08:51:48.949>: [Info]: GameName: New World
+<2021-11-01 08:51:48.949>: [Info]: BuildTime: Wed Oct 27 02:03:51 2021
+
+<2021-11-01 08:51:48.949>: [Info] (AZCore): [System] Physics initialization
+<2021-11-01 08:51:48.972>: [Info] (AZCore): [System] Renderer initialization
+<2021-11-01 08:51:48.974>: [Info]: Logging video adapters:
+<2021-11-01 08:51:50.716>: [Info]: - NVIDIA GeForce RTX 2080 (vendor = 0x10de, device = 0x1e87)
+<2021-11-01 08:51:50.716>: [Info]:   - Adapter index: 0
+<2021-11-01 08:51:50.716>: [Info]:   - Dedicated video memory: 8010 MB
+<2021-11-01 08:51:50.716>: [Info]:   - Feature level: DX11 (SM 5.0)
+<2021-11-01 08:51:50.716>: [Info]:   - Displays connected: yes
+<2021-11-01 08:51:50.716>: [Info]:   - Suitable rendering device: yes
+<2021-11-01 08:51:50.912>: [Info]: - Microsoft Basic Render Driver (vendor = 0x1414, device = 0x008c)
+<2021-11-01 08:51:50.912>: [Info]:   - Adapter index: 1
+<2021-11-01 08:51:50.912>: [Info]:   - Dedicated video memory: 0 MB
+<2021-11-01 08:51:50.912>: [Info]:   - Feature level: DX11 (SM 5.0)
+<2021-11-01 08:51:50.912>: [Info]:   - Displays connected: no
+<2021-11-01 08:51:50.912>: [Info]:   - Suitable rendering device: no
+<2021-11-01 08:51:53.031>: [Info]: Active GPUs: 1
+<2021-11-01 08:51:53.465>: [Info]: [Renderer] A display device has been connected to the system
+<2021-11-01 08:51:53.810>: [Info] (AZCore): [Audio] AudioSystem initialized in High Ram mode. Available RAM [16313]MB, LowRam cutoff is [9216]MB
+<2021-11-01 08:51:56.262>: [Info] (AZCore): [System] Font initialization
+<2021-11-01 08:51:56.262>: [Info]: Using FreeType 2.5.0
+<2021-11-01 08:52:07.902>: [Info] (AZCore): [System] Time initialization
+<2021-11-01 08:52:07.902>: [Info] (AZCore): [System] Input initialization
+<2021-11-01 08:52:07.902>: [Info] (AZCore): [System] UI system initialization
+<2021-11-01 08:52:07.902>: [Info] (AZCore): [System] Initializing Animation System
+<2021-11-01 08:52:07.902>: [Info] (AZCore): [System] Initializing 3D Engine
+<2021-11-01 08:52:07.934>: [Info]: Sky light: Optical lookup tables loaded off disc.
+<2021-11-01 08:52:07.934>: [Info] (AZCore): [System] Script System Initialization
+<2021-11-01 08:52:07.934>: [Info] (AZCore): [System] Entity system initialization
+<2021-11-01 08:52:07.954>: [Info] (AZCore): [System] Initializing additional systems
+<2021-11-01 08:52:07.954>: [Info] (AZCore): [System] Dynamic Response System initialization
+<2021-11-01 08:52:07.954>: [Info] (AZCore): [System] No Dynamic Response System was loaded from a module, the system will use the NULL DynamicResponseSystem.
+<2021-11-01 08:52:07.954>: [Info]: LmbrAWS system initialization
+<2021-11-01 08:52:12.773>: [Info] (AZCore): [System] == Version Info ===============================================================
+
+<2021-11-01 08:52:12.773>: [Info] (AZCore): [System] [RETAIL].Javelin.1.9.275.1467185
+
+<2021-11-01 08:52:12.773>: [Info] (AZCore): [System] ===============================================================================
+
+<2021-11-01 08:52:12.787>: [Info]: Client config override file not found: @assets@/ClientOverride.json
+<2021-11-01 08:52:13.919>: [Info] (AZCore): [Game] Steam Initialized!
+<2021-11-01 08:52:13.919>: [Info] (AZCore): [Game] Using remote config: true
+<2021-11-01 08:52:13.919>: [Info] (AZCore): [Game] Steam Utils obtained? true
+<2021-11-01 08:52:13.919>: [Info] (AZCore): [Game] Using Steam App ID: 1063730
+<2021-11-01 08:52:13.919>: [Info]: Channel service uri: https://d2c74t4zimux3r.cloudfront.net/STEAM_APP_ID.1063730.json
+<2021-11-01 08:52:14.426>: [Info]: Channel name: Retail
+<2021-11-01 08:52:14.426>: [Info]: Found cluster data for cluster id: fra-prod
+<2021-11-01 08:52:14.426>: [Info]: Display Name: EU Central
+<2021-11-01 08:52:14.426>: [Info]: Auth Stack: https://2mfrik7h83.execute-api.us-east-1.amazonaws.com/Prod
+<2021-11-01 08:52:14.426>: [Info]: Auth Stack Region: us-east-1
+<2021-11-01 08:52:14.426>: [Info]: Gateway Host: u433g9r00c.execute-api.eu-central-1.amazonaws.com
+<2021-11-01 08:52:14.426>: [Info]: Gateway Stack: d1w0bfy6smo4d1.cloudfront.net
+<2021-11-01 08:52:14.426>: [Info]: Gateway Stack Region: eu-central-1
+<2021-11-01 08:52:14.426>: [Info]: Http Gateway Stack: https://d1w0bfy6smo4d1.cloudfront.net/prod
+<2021-11-01 08:52:14.426>: [Info]: Http Gateway Stack Region: eu-central-1
+<2021-11-01 08:52:14.426>: [Info]: Found cluster data for cluster id: gru-prod
+<2021-11-01 08:52:14.426>: [Info]: Display Name: SA East
+<2021-11-01 08:52:14.426>: [Info]: Auth Stack: https://kqqt5twsi7.execute-api.us-east-1.amazonaws.com/Prod
+<2021-11-01 08:52:14.426>: [Info]: Auth Stack Region: us-east-1
+<2021-11-01 08:52:14.426>: [Info]: Gateway Host: j4n6whncmi.execute-api.sa-east-1.amazonaws.com
+<2021-11-01 08:52:14.426>: [Info]: Gateway Stack: d1cjlmzk0xrm0z.cloudfront.net
+<2021-11-01 08:52:14.426>: [Info]: Gateway Stack Region: sa-east-1
+<2021-11-01 08:52:14.426>: [Info]: Http Gateway Stack: https://d1cjlmzk0xrm0z.cloudfront.net/prod
+<2021-11-01 08:52:14.426>: [Info]: Http Gateway Stack Region: sa-east-1
+<2021-11-01 08:52:14.426>: [Info]: Found cluster data for cluster id: iad-prod
+<2021-11-01 08:52:14.426>: [Info]: Display Name: US East
+<2021-11-01 08:52:14.426>: [Info]: Auth Stack: https://eudbjx6mig.execute-api.us-east-1.amazonaws.com/Prod
+<2021-11-01 08:52:14.426>: [Info]: Auth Stack Region: us-east-1
+<2021-11-01 08:52:14.426>: [Info]: Gateway Host: 0prplal5u1.execute-api.us-east-1.amazonaws.com
+<2021-11-01 08:52:14.426>: [Info]: Gateway Stack: d2oeuvxi3kfsrw.cloudfront.net
+<2021-11-01 08:52:14.426>: [Info]: Gateway Stack Region: us-east-1
+<2021-11-01 08:52:14.426>: [Info]: Http Gateway Stack: https://d2oeuvxi3kfsrw.cloudfront.net/prod
+<2021-11-01 08:52:14.426>: [Info]: Http Gateway Stack Region: us-east-1
+<2021-11-01 08:52:14.426>: [Info]: Found cluster data for cluster id: pdx-prod
+<2021-11-01 08:52:14.426>: [Info]: Display Name: US West
+<2021-11-01 08:52:14.427>: [Info]: Auth Stack: https://q8hqllbg6k.execute-api.us-east-1.amazonaws.com/Prod
+<2021-11-01 08:52:14.427>: [Info]: Auth Stack Region: us-east-1
+<2021-11-01 08:52:14.427>: [Info]: Gateway Host: v7irlu1nrl.execute-api.us-west-2.amazonaws.com
+<2021-11-01 08:52:14.427>: [Info]: Gateway Stack: d3bj4csovi1fe8.cloudfront.net
+<2021-11-01 08:52:14.427>: [Info]: Gateway Stack Region: us-west-2
+<2021-11-01 08:52:14.427>: [Info]: Http Gateway Stack: https://d3bj4csovi1fe8.cloudfront.net/prod
+<2021-11-01 08:52:14.427>: [Info]: Http Gateway Stack Region: us-west-2
+<2021-11-01 08:52:14.427>: [Info]: Found platform metadata for key: ENTITLEMENTS.STEAM_APP_ID.1063730
+<2021-11-01 08:52:14.427>: [Info]: Found platform metadata for key: PERSONA.STEAM_APP_ID.1063730
+<2021-11-01 08:52:14.427>: [Info]: Found persona role for cluster id: fra-prod - arn:aws:iam::093607389475:role/AgsLiveResources-AllowPersonaAccessRole-1U24RJQDKWS63
+<2021-11-01 08:52:14.427>: [Info]: Found persona role for cluster id: fra-qa - arn:aws:iam::544220128841:role/AgsLiveResources-AllowPersonaAccessRole-PSN32B5D8G0L
+<2021-11-01 08:52:14.427>: [Info]: Found persona role for cluster id: fra-staging - arn:aws:iam::411585047658:role/AgsLiveResources-AllowPersonaAccessRole-709I6ZY9EAFH
+<2021-11-01 08:52:14.427>: [Info]: Found persona role for cluster id: gru-prod - arn:aws:iam::845253724667:role/AgsLiveResources-AllowPersonaAccessRole-SLHVYULH7U5
+<2021-11-01 08:52:14.427>: [Info]: Found persona role for cluster id: iad-prod - arn:aws:iam::819349112573:role/AgsLiveResources-AllowPersonaAccessRole-1PHH0BI346X75
+<2021-11-01 08:52:14.427>: [Info]: Found persona role for cluster id: iad-staging - arn:aws:iam::910532829260:role/AgsLiveResources-AllowPersonaAccessRole-OXG60NCUXR74
+<2021-11-01 08:52:14.427>: [Info]: Found persona role for cluster id: pdx-devo - arn:aws:iam::166847089677:role/AgsLiveResources-AllowPersonaAccessRole-15NKM8MRPA2BX
+<2021-11-01 08:52:14.427>: [Info]: Found persona role for cluster id: pdx-prod - arn:aws:iam::458929010575:role/AgsLiveResources-AllowPersonaAccessRole-QYL4I8P12BEA
+<2021-11-01 08:52:14.427>: [Info]: Found persona role for cluster id: pdx-qa - arn:aws:iam::379061375310:role/AgsLiveResources-AllowPersonaAccessRole-116SW3GWSL7P1
+<2021-11-01 08:52:14.427>: [Info]: Found persona role for cluster id: syd-prod - arn:aws:iam::018141801470:role/AgsLiveResources-AllowPersonaAccessRole-1CPZ9EG8SYMOQ
+<2021-11-01 08:52:14.427>: [Info]: Found cluster data for cluster id: syd-prod
+<2021-11-01 08:52:14.427>: [Info]: Display Name: AP Southeast
+<2021-11-01 08:52:14.427>: [Info]: Auth Stack: https://hhf8nn71vb.execute-api.us-east-1.amazonaws.com/Prod
+<2021-11-01 08:52:14.427>: [Info]: Auth Stack Region: us-east-1
+<2021-11-01 08:52:14.427>: [Info]: Gateway Host: ep1m9qoir8.execute-api.ap-southeast-2.amazonaws.com
+<2021-11-01 08:52:14.427>: [Info]: Gateway Stack: de4mfzk9wkelz.cloudfront.net
+<2021-11-01 08:52:14.427>: [Info]: Gateway Stack Region: ap-southeast-2
+<2021-11-01 08:52:14.427>: [Info]: Http Gateway Stack: https://de4mfzk9wkelz.cloudfront.net/prod
+<2021-11-01 08:52:14.427>: [Info]: Http Gateway Stack Region: ap-southeast-2
+<2021-11-01 08:52:19.246>: [Info]: Failure in initializing Fuel::Iap::IapClient: 14
+<2021-11-01 08:52:19.247>: [Info] (AZCore): [Game] LogEnvironmentString: ProductId: STEAM_APP_ID.1063730
+<2021-11-01 08:52:19.248>: [Info] (AZCore): [Game] LogEnvironmentString: ClusterId: fra-prod
+<2021-11-01 08:52:19.252>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.RegionId" S3 key (old: ""), reset to new value: "applications/public/configuration-sets/RegionId/fra-prod/versionless"
+<2021-11-01 08:52:19.252>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.RegionIdv" S3 key (old: ""), reset to new value: "applications/public/configuration-sets/RegionId/fra-prod/275;1467185"
+<2021-11-01 08:52:19.252>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.CognitoId" S3 key (old: ""), reset to new value: "applications/public/configuration-sets/CognitoId/us-east-1:0de93f7c-814e-4d48-a8fd-b6efc2f9ed93/versionless"
+<2021-11-01 08:52:19.252>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.CognitoIdv" S3 key (old: ""), reset to new value: "applications/public/configuration-sets/CognitoId/us-east-1:0de93f7c-814e-4d48-a8fd-b6efc2f9ed93/275;1467185"
+<2021-11-01 08:52:19.252>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.RegionId" S3 key (old: ""), reset to new value: "applications/publicGameplay/configuration-sets/RegionId/fra-prod/versionless"
+<2021-11-01 08:52:19.252>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.RegionIdv" S3 key (old: ""), reset to new value: "applications/publicGameplay/configuration-sets/RegionId/fra-prod/275;1467185"
+<2021-11-01 08:52:19.252>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.CognitoId" S3 key (old: ""), reset to new value: "applications/publicGameplay/configuration-sets/CognitoId/us-east-1:0de93f7c-814e-4d48-a8fd-b6efc2f9ed93/versionless"
+<2021-11-01 08:52:19.252>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.CognitoIdv" S3 key (old: ""), reset to new value: "applications/publicGameplay/configuration-sets/CognitoId/us-east-1:0de93f7c-814e-4d48-a8fd-b6efc2f9ed93/275;1467185"
+<2021-11-01 08:52:19.252>: [Info] (AZCore): [AuthManager] Initializing Steam Auth Manager.
+<2021-11-01 08:52:19.253>: [Info] (AZCore): [SteamAuth] Initializing Persona.
+<2021-11-01 08:52:19.566>: [Info]: [EasyAntiCheat] Initializing EAC game client module...
+<2021-11-01 08:52:19.579>: [Info]: [EasyAntiCheat] ...EAC game client module initialized successfully.
+<2021-11-01 08:52:20.277>: [Info]: Initializing default materials...
+<2021-11-01 08:52:20.881>: [Info] (AZCore): [streamingGDEManager] Initialize()
+<2021-11-01 08:52:20.881>: [Info] (AZCore): [AsyncMapUnload] No previous level to unload, so not starting async.  Just loading this map now: ("frontendv2")
+<2021-11-01 08:52:20.881>: [Info]: ============================ Loading level frontendv2 ============================
+<2021-11-01 08:52:23.915>: [Info]: Loading Seen Entitlements Data failed.
+<2021-11-01 08:52:29.742>: [Info]: SerializeOptions: Success
+<2021-11-01 08:52:29.742>: [Info]: SerializeOptions: Moving to C:/Users/Sai Prasad/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave

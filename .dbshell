@@ -1,0 +1,171 @@
+show dbs
+help
+1+2
+"hello".toUpperCase();
+db
+use Yelp-Camp
+db.campgrounds.find()
+db.campground.find()
+clear
+use yelp[2~-camp
+db.campgrounds
+db,campgrounds.find()_
+use yelp-camp
+db.campgrounds.find()
+use yelp-camp
+db.campgrounds.findall()
+db.campgrounds.find()
+use yelp-camp
+db.campground.find()
+db.campgrounds.find()
+use yelp-camp
+db.campgrounds.find()
+it
+use yelp-camp
+db.campgrounds.find()
+use yelp-camp
+db.campgrounds.find()
+use yelp-camp
+db.campgrounds.find()
+use yelp-camp
+db.campgrounds.find()
+use yelp-camp
+db.campgrounds.find()
+use yelp-camp
+db.campgrounds.find()
+use yelp-camp
+db.campgrounds.find()
+use yelp-camp
+db.campgrounds.find()
+use yelp-camp
+db.campgrounds.find()
+use yelp-camp
+db.campgrounds.find()
+use yelp-camp
+db.campgrounds.find()
+use yelp-camp
+db.campgrounds.find();
+use yelp-camp
+use yelp-camp
+db.campgrounds.find()
+use yelp-camp
+db.campgrounds.find()
+it
+use yelp-camp
+db.campgrounds.find()
+use yelp-camp
+use yelp-camp
+db.campgrounds.find()
+use yelp-camp
+db.campgrounds.find()
+it
+use Yelp-Camp
+db.campgrounds.find()
+use yelpcamp
+db.campgrounds.find()
+use Yelp-Camp
+db.campgrounds.find()
+use yelp-camp
+db.campgrounds.find()
+it
+use yelp-camp
+db.campgrounds.find()
+it
+use yelp-camp
+db.campgrounds.find()[D{})
+db.campgronds.find()
+db.campgrounds.find()
+it
+use yelp-camp
+db.campgrounds.find()
+it
+use yelp-camp
+db.campgrounds.find()
+it
+use yelpcamp
+db.campgrounds.find()
+use yelp-camp
+db.campgrounds.find()
+it
+use yelp-camp
+db.campgrounds.find()
+use yelp-camp
+db.campgrounds.find()
+db.reviews.deleteMany()[D{}[C)[C[C})
+db.reviews.deleteMany()[D{})
+use yelp-camp
+db.reviews.find()
+db.reviews.findAndDeleteAll()
+[A[Bdb.reviews.deleteMany() db.reviews.deleteMany({}) db.reviews.deleteMany( {})[D )[D )
+db.reviews.find()
+use yelp-camp
+db.campgrounds.find()
+it
+\\use yelp-camp
+db.campgrounds.find()
+use yelp-camp
+db.campgrounds.find()
+db.reviews.find()
+use yelp-camp
+db.reviews.find()
+it
+db.reviews.deleteMany({})
+db.reviews.find()
+use yelp-camp
+db.reviews.find()
+use yelp-camp
+db.reviews.find()
+use yelp-camp
+db.reviews.find()
+use yelp-camp
+db.reviews.find()
+use yelp-camp
+db.campgrounds.find()
+it
+use yelp-camp
+my db
+my.db
+show dbs
+use yelp-camp
+db.campgrounds.find()
+it
+db.campgrounds.user()
+db.collection.find()
+db.campgrounds.count()
+use yelp-camp
+db.campgrounds.find({username:"sai"})
+db show
+show dbs
+db.users.find()
+db.users.find({username: 'sai')}
+db.users.find({username:'sai'})
+db.reviews.find()
+db.users.find({username: "Ronaldo"})
+db.users.find()
+db.users.deleteOne({username:'ronaldo'})
+db.users.deleteMany()
+db.users.deleteOne({username:'prasad"})
+db.users.deleteOne({username:'prasad'})
+db.users.find()
+db.uses.deleteOne({username:"messi"})
+db.users.deleteOne({username:"messi"})
+db.users.find()
+use yelp-camp
+db.campgrounds.find()
+use yelp-camp
+db.users.find()
+use yelp-camp
+db.user.deleteMany({})
+db.user.deteleMany({username:"sanjurck"})
+db.user.deleteMany({username:"sanjurckz"})
+db.user.find()
+db.users.find()
+db.users.deleteOne({username:sanjurckz})
+db.users.deleteOne({username:"sanjurckz"})
+db.users.deleteOne({username:"saiprasad"})
+db.users.deleteOne({username:"sanju:})
+db.users.deleteOne({username:"sanju"})
+db.users.deleteOne({username:"sai prasad"})
+db.users.find()
+use yelp-camp
+db.reviews.find()

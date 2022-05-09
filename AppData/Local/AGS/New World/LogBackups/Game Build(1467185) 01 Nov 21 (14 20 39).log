@@ -1,0 +1,176 @@
+<2021-11-01 08:50:39.377>: [Info]: BackupNameAttachment=" Build(1467185) 01 Nov 21 (14 20 39)"  -- used by backup system
+
+<2021-11-01 08:50:39.377>: [Info]: Log Started at local time Mon Nov  1 14:20:39 2021
+<2021-11-01 08:50:39.378>: [Info]: Built on Wed Oct 27 02:03:51 2021
+
+<2021-11-01 08:50:39.378>: [Info]: Running 64 bit Windows version
+<2021-11-01 08:50:39.378>: [Info]: Executable: NewWorld.exe [AZ_RETAIL_CONFIG]
+<2021-11-01 08:50:39.378>: [Info]: FileVersion: 1.9.275.1467185
+<2021-11-01 08:50:39.378>: [Info]: ProductVersion: 1.9.275.1467185
+<2021-11-01 08:50:39.378>: [Info]: Using Microsoft (tm) C++ Standard Library implementation
+
+<2021-11-01 08:50:39.379>: [Info] (AZCore): [System] Loading system configuration from system_windows_pc.cfg...
+<2021-11-01 08:50:39.379>: [Info] (AZCore): [System] GameDir: Assets
+
+<2021-11-01 08:50:41.401>: [Info]: 
+<2021-11-01 08:50:41.404>: [Info]: Total number of logical processors: 12
+<2021-11-01 08:50:41.404>: [Info]: Number of available logical processors: 12
+<2021-11-01 08:50:41.404>: [Info]: Total number of system cores: 6
+<2021-11-01 08:50:41.404>: [Info]: Number of cores available to process: 6
+<2021-11-01 08:50:41.404>: [Info]:  
+<2021-11-01 08:50:41.404>: [Info]: Processor 0:
+<2021-11-01 08:50:41.404>: [Info]:   CPU: Intel Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz
+<2021-11-01 08:50:41.404>: [Info]:   Family: 6, Model: 14, Stepping: 10
+<2021-11-01 08:50:41.404>: [Info]:   FPU: On-Chip
+<2021-11-01 08:50:41.404>: [Info]:   3DNow!: not present
+<2021-11-01 08:50:41.404>: [Info]:   MMX: not present
+<2021-11-01 08:50:41.404>: [Info]:   SSE: present
+<2021-11-01 08:50:41.404>: [Info]:   SSE2: present
+<2021-11-01 08:50:41.404>: [Info]:   SSE3: present
+<2021-11-01 08:50:41.404>: [Info]:   Serial number not present or disabled
+<2021-11-01 08:50:41.404>: [Info]:  
+<2021-11-01 08:50:41.404>: [Info]: Processor 1:
+<2021-11-01 08:50:41.404>: [Info]:   CPU: Intel Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz
+<2021-11-01 08:50:41.404>: [Info]:   Family: 6, Model: 14, Stepping: 10
+<2021-11-01 08:50:41.404>: [Info]:   FPU: On-Chip
+<2021-11-01 08:50:41.404>: [Info]:   3DNow!: not present
+<2021-11-01 08:50:41.404>: [Info]:   MMX: not present
+<2021-11-01 08:50:41.404>: [Info]:   SSE: present
+<2021-11-01 08:50:41.404>: [Info]:   SSE2: present
+<2021-11-01 08:50:41.404>: [Info]:   SSE3: present
+<2021-11-01 08:50:41.404>: [Info]:   Serial number not present or disabled
+<2021-11-01 08:50:41.404>: [Info]:  
+<2021-11-01 08:50:41.404>: [Info]: Processor 2:
+<2021-11-01 08:50:41.404>: [Info]:   CPU: Intel Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz
+<2021-11-01 08:50:41.404>: [Info]:   Family: 6, Model: 14, Stepping: 10
+<2021-11-01 08:50:41.404>: [Info]:   FPU: On-Chip
+<2021-11-01 08:50:41.404>: [Info]:   3DNow!: not present
+<2021-11-01 08:50:41.404>: [Info]:   MMX: not present
+<2021-11-01 08:50:41.404>: [Info]:   SSE: present
+<2021-11-01 08:50:41.404>: [Info]:   SSE2: present
+<2021-11-01 08:50:41.404>: [Info]:   SSE3: present
+<2021-11-01 08:50:41.404>: [Info]:   Serial number not present or disabled
+<2021-11-01 08:50:41.404>: [Info]:  
+<2021-11-01 08:50:41.404>: [Info]: Processor 3:
+<2021-11-01 08:50:41.404>: [Info]:   CPU: Intel Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz
+<2021-11-01 08:50:41.404>: [Info]:   Family: 6, Model: 14, Stepping: 10
+<2021-11-01 08:50:41.404>: [Info]:   FPU: On-Chip
+<2021-11-01 08:50:41.404>: [Info]:   3DNow!: not present
+<2021-11-01 08:50:41.404>: [Info]:   MMX: not present
+<2021-11-01 08:50:41.404>: [Info]:   SSE: present
+<2021-11-01 08:50:41.404>: [Info]:   SSE2: present
+<2021-11-01 08:50:41.404>: [Info]:   SSE3: present
+<2021-11-01 08:50:41.404>: [Info]:   Serial number not present or disabled
+<2021-11-01 08:50:41.404>: [Info]:  
+<2021-11-01 08:50:41.404>: [Info]: Processor 4:
+<2021-11-01 08:50:41.404>: [Info]:   CPU: Intel Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz
+<2021-11-01 08:50:41.404>: [Info]:   Family: 6, Model: 14, Stepping: 10
+<2021-11-01 08:50:41.404>: [Info]:   FPU: On-Chip
+<2021-11-01 08:50:41.404>: [Info]:   3DNow!: not present
+<2021-11-01 08:50:41.404>: [Info]:   MMX: not present
+<2021-11-01 08:50:41.404>: [Info]:   SSE: present
+<2021-11-01 08:50:41.404>: [Info]:   SSE2: present
+<2021-11-01 08:50:41.404>: [Info]:   SSE3: present
+<2021-11-01 08:50:41.404>: [Info]:   Serial number not present or disabled
+<2021-11-01 08:50:41.404>: [Info]:  
+<2021-11-01 08:50:41.404>: [Info]: Processor 5:
+<2021-11-01 08:50:41.404>: [Info]:   CPU: Intel Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz
+<2021-11-01 08:50:41.404>: [Info]:   Family: 6, Model: 14, Stepping: 10
+<2021-11-01 08:50:41.404>: [Info]:   FPU: On-Chip
+<2021-11-01 08:50:41.404>: [Info]:   3DNow!: not present
+<2021-11-01 08:50:41.404>: [Info]:   MMX: not present
+<2021-11-01 08:50:41.404>: [Info]:   SSE: present
+<2021-11-01 08:50:41.404>: [Info]:   SSE2: present
+<2021-11-01 08:50:41.404>: [Info]:   SSE3: present
+<2021-11-01 08:50:41.404>: [Info]:   Serial number not present or disabled
+<2021-11-01 08:50:41.404>: [Info]:  
+<2021-11-01 08:50:41.404>: [Info]: Windows 10 64 bit (build 10.0.19042)
+<2021-11-01 08:50:41.404>: [Info]: System language: English
+<2021-11-01 08:50:41.404>: [Info]: Windows Directory: "C:\WINDOWS"
+<2021-11-01 08:50:41.404>: [Info]: Local time is 14:20:41 11/01/21, system running for 887 minutes
+<2021-11-01 08:50:41.404>: [Info]: 16314MB physical memory installed, 7458MB available, 134217727MB virtual memory installed, 54 percent of memory in use
+<2021-11-01 08:50:41.405>: [Info]: PageFile usage: 149MB, Working Set: 257MB, Peak PageFile usage: 331MB,
+<2021-11-01 08:50:41.410>: [Info]: Current display mode is 78043832, (Unknown graphics card)
+<2021-11-01 08:50:41.410>: [Info]: IBM enhanced (101/102-key) keyboard and 5+ button mouse installed
+<2021-11-01 08:50:41.410>: [Info]: --------------------------------------------------------------------------------
+<2021-11-01 08:50:41.436>: [Info]: Running machine spec auto detect (64 bit)...
+<2021-11-01 08:50:41.436>: [Info]: - Windows 10 64 bit (build 10.0.19042)
+<2021-11-01 08:50:41.436>: [Info]: - System memory
+<2021-11-01 08:50:41.436>: [Info]: --- 16313 MB
+<2021-11-01 08:50:41.436>: [Info]: - Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz
+<2021-11-01 08:50:41.436>: [Info]: --- Number of available cores: 6 (out of 6)
+<2021-11-01 08:50:41.436>: [Info]: --- Number of logical processors: 12
+<2021-11-01 08:50:41.438>: [Info]: Logging video adapters:
+<2021-11-01 08:50:43.421>: [Info]: - NVIDIA GeForce RTX 2080 (vendor = 0x10de, device = 0x1e87)
+<2021-11-01 08:50:43.421>: [Info]:   - Adapter index: 0
+<2021-11-01 08:50:43.421>: [Info]:   - Dedicated video memory: 8010 MB
+<2021-11-01 08:50:43.421>: [Info]:   - Feature level: DX11 (SM 5.0)
+<2021-11-01 08:50:43.421>: [Info]:   - Displays connected: yes
+<2021-11-01 08:50:43.421>: [Info]:   - Suitable rendering device: yes
+<2021-11-01 08:50:43.643>: [Info]: - Microsoft Basic Render Driver (vendor = 0x1414, device = 0x008c)
+<2021-11-01 08:50:43.643>: [Info]:   - Adapter index: 1
+<2021-11-01 08:50:43.643>: [Info]:   - Dedicated video memory: 0 MB
+<2021-11-01 08:50:43.643>: [Info]:   - Feature level: DX11 (SM 5.0)
+<2021-11-01 08:50:43.643>: [Info]:   - Displays connected: no
+<2021-11-01 08:50:43.643>: [Info]:   - Suitable rendering device: no
+<2021-11-01 08:50:43.644>: [Info]: - NVIDIA GeForce RTX 2080 (vendor = 0x10de, device = 0x1e87)
+<2021-11-01 08:50:43.644>: [Info]: --- Dedicated video memory: 8010 MB
+<2021-11-01 08:50:43.644>: [Info]: --- Feature level: DX11 (SM 5.0)
+<2021-11-01 08:50:43.645>: [Info]: - Final rating: Machine class 3
+<2021-11-01 08:50:43.647>: [Info] (AZCore): [System] Stream Engine Initialization
+<2021-11-01 08:50:43.647>: [Info]: GameName: New World
+<2021-11-01 08:50:43.647>: [Info]: BuildTime: Wed Oct 27 02:03:51 2021
+
+<2021-11-01 08:50:43.647>: [Info] (AZCore): [System] Physics initialization
+<2021-11-01 08:50:43.674>: [Info] (AZCore): [System] Renderer initialization
+<2021-11-01 08:50:43.676>: [Info]: Logging video adapters:
+<2021-11-01 08:50:45.529>: [Info]: - NVIDIA GeForce RTX 2080 (vendor = 0x10de, device = 0x1e87)
+<2021-11-01 08:50:45.529>: [Info]:   - Adapter index: 0
+<2021-11-01 08:50:45.529>: [Info]:   - Dedicated video memory: 8010 MB
+<2021-11-01 08:50:45.529>: [Info]:   - Feature level: DX11 (SM 5.0)
+<2021-11-01 08:50:45.529>: [Info]:   - Displays connected: yes
+<2021-11-01 08:50:45.529>: [Info]:   - Suitable rendering device: yes
+<2021-11-01 08:50:45.722>: [Info]: - Microsoft Basic Render Driver (vendor = 0x1414, device = 0x008c)
+<2021-11-01 08:50:45.722>: [Info]:   - Adapter index: 1
+<2021-11-01 08:50:45.722>: [Info]:   - Dedicated video memory: 0 MB
+<2021-11-01 08:50:45.722>: [Info]:   - Feature level: DX11 (SM 5.0)
+<2021-11-01 08:50:45.722>: [Info]:   - Displays connected: no
+<2021-11-01 08:50:45.722>: [Info]:   - Suitable rendering device: no
+<2021-11-01 08:50:48.052>: [Info]: Active GPUs: 1
+<2021-11-01 08:50:49.003>: [Info]: [Renderer] A display device has been connected to the system
+<2021-11-01 08:50:49.562>: [Info] (AZCore): [Audio] AudioSystem initialized in High Ram mode. Available RAM [16313]MB, LowRam cutoff is [9216]MB
+<2021-11-01 08:50:55.076>: [Info] (AZCore): [System] Font initialization
+<2021-11-01 08:50:55.076>: [Info]: Using FreeType 2.5.0
+<2021-11-01 08:51:08.209>: [Info] (AZCore): [System] Time initialization
+<2021-11-01 08:51:08.209>: [Info] (AZCore): [System] Input initialization
+<2021-11-01 08:51:08.209>: [Info] (AZCore): [System] UI system initialization
+<2021-11-01 08:51:08.210>: [Info] (AZCore): [System] Initializing Animation System
+<2021-11-01 08:51:08.211>: [Info] (AZCore): [System] Initializing 3D Engine
+<2021-11-01 08:51:08.235>: [Info]: Sky light: Optical lookup tables loaded off disc.
+<2021-11-01 08:51:08.236>: [Info] (AZCore): [System] Script System Initialization
+<2021-11-01 08:51:08.236>: [Info] (AZCore): [System] Entity system initialization
+<2021-11-01 08:51:08.300>: [Info] (AZCore): [System] Initializing additional systems
+<2021-11-01 08:51:08.300>: [Info] (AZCore): [System] Dynamic Response System initialization
+<2021-11-01 08:51:08.300>: [Info] (AZCore): [System] No Dynamic Response System was loaded from a module, the system will use the NULL DynamicResponseSystem.
+<2021-11-01 08:51:08.301>: [Info]: LmbrAWS system initialization
+<2021-11-01 08:51:14.352>: [Info] (AZCore): [System] == Version Info ===============================================================
+
+<2021-11-01 08:51:14.352>: [Info] (AZCore): [System] [RETAIL].Javelin.1.9.275.1467185
+
+<2021-11-01 08:51:14.352>: [Info] (AZCore): [System] ===============================================================================
+
+<2021-11-01 08:51:14.469>: [Info]: Client config override file not found: @assets@/ClientOverride.json
+<2021-11-01 08:51:15.840>: [Info] (AZCore): [Game] Steam Initialized!
+<2021-11-01 08:51:15.840>: [Info] (AZCore): [Game] Using remote config: true
+<2021-11-01 08:51:15.840>: [Info] (AZCore): [Game] Steam Utils obtained? true
+<2021-11-01 08:51:15.840>: [Info] (AZCore): [Game] Using Steam App ID: 1063730
+<2021-11-01 08:51:15.841>: [Info]: Channel service uri: https://d2c74t4zimux3r.cloudfront.net/STEAM_APP_ID.1063730.json
+<2021-11-01 08:51:15.964>: [Info]: Channel Service data provider: Could not make request, Attempt: 1.
+<2021-11-01 08:51:16.017>: [Info]: Channel Service data provider: Could not make request, Attempt: 2.
+<2021-11-01 08:51:16.070>: [Info]: Channel Service data provider: Could not make request, Attempt: 3.
+<2021-11-01 08:51:16.122>: [Info]: Channel Service data provider: Could not make request, Attempt: 4.
+<2021-11-01 08:51:16.175>: [Info]: Channel Service data provider: Could not make request, Attempt: 5.
+<2021-11-01 08:51:16.175>: [Info]: Channel Service data provider: There was a problem parsing the response body: 
+<2021-11-01 08:51:18.467>: [Info]: [EasyAntiCheat] Initializing EAC game client module...
+<2021-11-01 08:51:18.542>: [Info]: [EasyAntiCheat] ...EAC game client module initialized successfully.
+<2021-11-01 08:51:18.599>: [Info]: Initializing default materials...

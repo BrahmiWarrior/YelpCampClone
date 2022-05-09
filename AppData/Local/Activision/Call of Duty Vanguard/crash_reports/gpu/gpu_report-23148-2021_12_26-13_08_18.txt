@@ -1,0 +1,19 @@
+hr              [887a0001]: The application made a call that is invalid. Either the parameters of the call or the state of some object was incorrect. Enable the D3D debug layer in order to see details via debug messages. 
+hrRemovedReason [00000000]: The operation completed successfully. 
+Video Memory Info:
+	Budget: 6155 MB
+	Budget (unscaled): 7242 MB
+	Used: 2536 MB
+	Used (High watermark): 2536 MB
+	Available: 3619 MB
+	Deficit: 0 MB
+System Video Memory Info:
+	Budget: 7493 MB
+	Budget (unscaled): 7493 MB
+	Used: 1215 MB
+	Used (High watermark): 1215 MB
+	Available: 6277 MB
+	Deficit: 0 MB
+--- Begin Breadcrumbs Commandlist Report ---
+	Command List [000002c80317c010]: (pending)
+--- End Breadcrumbs Commandlist Report ---
